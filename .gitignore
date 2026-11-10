@@ -1,0 +1,29 @@
+# Environment variables and secrets
+.env
+.env.*
+
+# Virtual environment
+venv/
+Venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# Generated database
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated reports
+reports/*.md
+reports/*.pdf
+
+# System files
+.DS_Store
+Thumbs.db
